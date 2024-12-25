@@ -64,7 +64,7 @@
 * [ ] [**Go**: _Let's Create a Simple Load Balancer_](https://kasvith.me/posts/lets-create-a-simple-lb-go/)
 * [ ] [**Go**: _Video Encoding from Scratch_](https://github.com/kevmo314/codec-from-scratch)
 * [ ] [**Java**: _How to Build an Android Reddit App_](https://www.youtube.com/playlist?list=PLgCYzUzKIBE9HUJU-upNvl3TRVAo9W47y) [video]
-* [ ] [**JavaScript**: _Build Your Own Module Bundler - Minipack_](https://github.com/ronami/minipack)
+* [x] [**JavaScript**: _构建你自己的模块打包器 - Minipack_](https://wsafight.github.io/build-your-own-x/uncategorized/minipack)
 * [ ] [**JavaScript**: _Learn JavaScript Promises by Building a Promise from Scratch_](https://levelup.gitconnected.com/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720)
 * [ ] [**JavaScript**: _Implementing promises from scratch (TDD way)_](https://www.mauriciopoppe.com/notes/computer-science/computation/promises/)
 * [ ] [**JavaScript**: _Implement your own — call(), apply() and bind() method in JavaScript_](https://blog.usejournal.com/implement-your-own-call-apply-and-bind-method-in-javascript-42cc85dba1b)
