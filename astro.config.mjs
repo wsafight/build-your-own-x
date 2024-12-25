@@ -26,6 +26,7 @@ export default defineConfig({
           label: "未分类",
           items: [
             { label: "模块打包器", slug: "uncategorized/minipack" },
+            { label: "通过从头构建 CDN 来学习 CDN", slug: "uncategorized/cdn" },
           ],
         },
       ],
